@@ -1,5 +1,5 @@
 ## Supported Unicode Charts
-This is a list of currently supported Unicode charts in **Altitext.ttf**.
+This is a list of currently supported Unicode charts in [altitext.ttf](https://github.com/Jeiii20/altifonts/blob/main/ttf%2Faltitext%2Faltitext.ttf).
 
 | Unicode block | From/To | Support rate |
 |:--------------|:-------:|:------------:|
