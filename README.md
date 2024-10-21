@@ -1,9 +1,9 @@
 # altifonts
 
-## ℹ Subject
+## ℹ️ Subject
 This is an open-source project created with the purpose to unify all the typefaces made and showcase the latest updates.
 
-## ℹ Informations
+## ℹ️ Informations
 - If you would like to report something about my fonts, please use the [issue tracker](https://github.com/Jeiii20/altifonts/issues). All of the feedbacks will be welcomed and attended in a due time.
 - If you would like to use some of my fonts in your projects, it's advisable to always use the latest versions of the font to have access to the new glyphs.
 - Before using any font, please consult the licensing of each one of them to be clear with the usage policy.
