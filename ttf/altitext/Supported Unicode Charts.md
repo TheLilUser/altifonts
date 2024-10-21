@@ -15,7 +15,7 @@ This is a list of currently supported Unicode charts in **Altitext.ttf**.
 | Phonetic Extensions | U+1D00/U+1D7F | 42% |
 | General Punctuation | U+2000/U+206F | 21% |
 | Currency Symbols | U+20A0/U+20CF | 15% |
-| CJK Symbols and Punctuation | U+3000/U+303F | 43.75% |
+| CJK Symbols and Punctuation | U+3000/U+303F | 44% |
 | Hiragana | U+3040/U+309F | 88% |
 | Katakana | U+30A0/U+30FF | 89% |
 | Hangul Syllables | U+AC00/U+D7AF | 0.07% |
