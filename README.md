@@ -13,7 +13,8 @@ This project is licensed under Creative Commons Attribution-NonCommercial-NoDeri
 
 ### You are free to:
 - **Share** — copy and redistribute the material in any medium or format
-  The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 ### Under the following terms:
 - **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en#ref-appropriate-credit), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en#ref-indicate-changes). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
