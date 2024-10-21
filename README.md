@@ -5,7 +5,7 @@ This is an open-source project created with the purpose to unify all the typefac
 
 ## ℹ️ Informations
 - If you would like to report something about the fonts found under this repository, please use the [issue tracker](https://github.com/Jeiii20/altifonts/issues). All of the feedbacks will be welcomed and attended in a due time. Enough evidence represented by screenshots of your report is appreciated and may grant higher priority to your enquiry.
-- If you would like to use some of the fonts from here in your projects, it's advisable to always use the latest versions of the font to have access to the new glyphs. For that, we'll always include a `Changelog.md` file for each font fokder so you ain't be lost with it.
+- If you would like to use some of the fonts from here in your projects, it's advisable to always use the latest versions of the font to have access to the new glyphs. For that, we'll always include a `Changelog.md` file for each font folder so you ain't be lost with it.
 - We'll always include samples for each font folder for demonstration and give opportunity for third-party to leave useful feedbacks about that specific font or for reporting any mistaken glyph.
 - Before using any font, please consult the licensing of each one of them to be clear with the usage policy.
 
