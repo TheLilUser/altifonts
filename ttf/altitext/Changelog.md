@@ -1,7 +1,7 @@
 ## Change logs
 
 ### Ver 1.0.1 – Oct 21, 2024
-- Add missing glyph from Basic Latin.
+- Added a missing glyph from Basic Latin.
 
 ### Ver 1.0 – Oct 21, 2024
 - Initial release.
