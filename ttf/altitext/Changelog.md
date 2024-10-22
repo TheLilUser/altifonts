@@ -1,7 +1,9 @@
 ## Change logs
 
 ### Ver 1.0.2 – Oct 22, 2024
-- Fix inconsistency with acute.
+- Fixed inconsistency with acute and grave accents at vowels A (À, Á), E (È, É), I (Ì, Í), O (Ò, Ó), U (Ù, Ú).
+- Fixed inconsistency with acute accent at semi-vowel Y (Ý).
+- Fixed inconsistency with acute accent at consonants R (Ŕ) and S (Ś).
 
 ### Ver 1.0.1 – Oct 21, 2024
 - Added a missing glyph from Basic Latin.
