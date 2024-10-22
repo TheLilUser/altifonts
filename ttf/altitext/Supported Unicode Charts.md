@@ -13,6 +13,7 @@ This is a list of currently supported Unicode charts in [altitext.ttf](https://g
 | Cyrillic Supplement | U+0500/U+052F | 8% |
 | Hangul Jamo | U+1100/U+11FF | 100% |
 | Phonetic Extensions | U+1D00/U+1D7F | 42% |
+| Latin Extended Additional | U+1E00/U+1EFF | 98% |
 | General Punctuation | U+2000/U+206F | 21% |
 | Currency Symbols | U+20A0/U+20CF | 15% |
 | CJK Symbols and Punctuation | U+3000/U+303F | 44% |
