@@ -1,6 +1,4 @@
-## Current version
-
-Altitext Release v1.0.2
+**Current version:** Altitext Release v1.0.2
 
 ## History
 
