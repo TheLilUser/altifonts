@@ -1,4 +1,8 @@
-**Current version:** Altitext Release v1.0.2
+**Current version:** Altitext Release v1.0.3
+
+### What's new: v1.0.3 – 25/10/2024
+- Added more Hangul Syllables characters.
+- Fixed some Hangul Syllables characters for better readability and to match with the recently added glyphs.
 
 ### What's new: v1.0.2 – 22/10/2024
 - Fixed inconsistency with acute and grave accents at vowels A (À, Á), E (È, É), I (Ì, Í), O (Ò, Ó) and U (Ù, Ú).
