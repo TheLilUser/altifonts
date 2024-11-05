@@ -1,4 +1,4 @@
-**Current version:** Altitext Release v1.0.3
+**Current version:** Altitext Release v0.1.3
 
 ### What's new: v0.1.3 – 25/10/2024
 - Added more Hangul Syllables characters.
