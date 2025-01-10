@@ -1,4 +1,4 @@
-# altifonts
+# Altifonts
 
 ## ℹ️ Subject
 This is an open-source project created with the purpose to unify all the typefaces made and showcase the latest updates.
